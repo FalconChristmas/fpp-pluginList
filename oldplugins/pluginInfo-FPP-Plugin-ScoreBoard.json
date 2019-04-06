@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-ScoreBoard",
+    "name": "Score Board",
+    "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+    "description": "Display Scores as Scoreboard on Matrix",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-ScoreBoard",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-ScoreBoard.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-ScoreBoard/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

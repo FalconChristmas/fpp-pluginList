@@ -6,6 +6,29 @@
 		[ "fpp-matrixtools", "https://raw.githubusercontent.com/cpinkham/fpp-matrixtools/master/pluginInfo.json" ],
 		[ "fpp-after-hours", "https://raw.githubusercontent.com/jcrossbdn/fpp-after-hours/master/pluginInfo.json" ],
 		[ "fpp-edmrds", "https://raw.githubusercontent.com/FalconChristmas/fpp-edmrds/master/pluginInfo.json" ],
-		[ "fpp-plugin-Template", "https://raw.githubusercontent.com/FalconChristmas/fpp-plugin-Template/master/pluginInfo.json" ]
+		[ "fpp-plugin-Template", "https://raw.githubusercontent.com/FalconChristmas/fpp-plugin-Template/master/pluginInfo.json" ],
+
+		[ "FPP-Plugin-BetaBrite", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-BetaBrite.json" ],
+		[ "FPP-Plugin-Cron-Editor", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Cron-Editor.json" ],
+		[ "FPP-Plugin-Election", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Election.json" ],
+		[ "FPP-Plugin-EventDate", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-EventDate.json" ],
+		[ "FPP-Plugin-Falcon-System-Monitor", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Falcon-System-Monitor.json" ],
+		[ "FPP-Plugin-Mail", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Mail.json" ],
+		[ "FPP-Plugin-Matrix-Message", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Matrix-Message.json" ],
+		[ "FPP-Plugin-MessageQueue", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-MessageQueue.json" ],
+		[ "FPP-Plugin-Projector-Control", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Projector-Control.json" ],
+		[ "FPP-Plugin-RadioStation", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-RadioStation.json" ],
+		[ "FPP-Plugin-RDS-To-Matrix", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-RDS-To-Matrix.json" ],
+		[ "FPP-Plugin-ScoreBoard", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-ScoreBoard.json" ],
+		[ "FPP-Plugin-SportsTicker", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-SportsTicker.json" ],
+		[ "FPP-Plugin-StockTicker", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-StockTicker.json" ],
+		[ "FPP-Plugin-Switcher", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Switcher.json" ],
+		[ "FPP-Plugin-Thingspeak", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Thingspeak.json" ],
+		[ "FPP-Plugin-TwilioControl", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-TwilioControl.json" ],
+		[ "FPP-Plugin-Twitter", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Twitter.json" ],
+		[ "FPP-Plugin-Weather", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-FPP-Plugin-Weather.json" ],
+		[ "fpp-tirprog", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-fpp-tirprog.json" ],
+		[ "model-testing", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/oldplugins/pluginInfo-model-testing.json" ]
+
 	]
 }

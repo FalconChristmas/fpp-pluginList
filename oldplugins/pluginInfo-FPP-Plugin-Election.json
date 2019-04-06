@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-Election",
+    "name": "Election 2016",
+    "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+    "description": "Election data for display",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Election",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-Election.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-Election/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

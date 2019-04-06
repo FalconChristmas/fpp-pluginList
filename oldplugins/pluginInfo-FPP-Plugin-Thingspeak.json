@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-Thingspeak",
+    "name": "Post to Thingspeak",
+    "author": "Ben Shaver (bshaver)",
+    "description": "Post fields from running playlist to Thingspeak",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Thingspeak",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-Thingspeak.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-Thingspeak/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

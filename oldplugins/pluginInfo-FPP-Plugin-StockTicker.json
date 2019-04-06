@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-StockTicker",
+    "name": "Stock Ticker",
+    "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+    "description": "Download Stock Quotes and display on Matrix",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-StockTicker",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-StockTicker.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-StockTicker/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

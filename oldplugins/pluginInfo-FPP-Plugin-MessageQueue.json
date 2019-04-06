@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-MessageQueue",
+    "name": "Message Queue Aggregator for Plugins",
+    "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+    "description": "Message Queue Aggregator for Plugins",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-MessageQueue",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-MessageQueue.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-MessageQueue/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

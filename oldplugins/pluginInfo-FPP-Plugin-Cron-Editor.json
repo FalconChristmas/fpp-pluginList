@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-Cron-Editor",
+    "name": "Crontab Editor",
+    "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+    "description": "Basic Crontab Editing to launch scripts",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Cron-Editor",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-Cron-Editor.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-Cron-Editor/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

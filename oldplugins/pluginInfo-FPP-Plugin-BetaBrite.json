@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-BetaBrite",
+    "name": "BetaBrite Sign Control",
+    "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+    "description": "Basic BetaBrite Control for Song/Artist display",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-BetaBrite",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-BetaBrite.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-BetaBrite/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

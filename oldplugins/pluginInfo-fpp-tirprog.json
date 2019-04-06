@@ -1,0 +1,18 @@
+{
+    "repoName": "fpp-tirprog",
+    "name": "FTP (FPP Tir Programmer)",
+    "author": "Mat Mrosko (Materdaddy)",
+    "description": "Named FTP to bewilder and confuse",
+    "homeURL": "https://github.com/Materdaddy/fpp-tirprog",
+    "srcURL": "https://github.com/Materdaddy/fpp-tirprog.git",
+    "bugURL": "https://github.com/Materdaddy/fpp-tirprog/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

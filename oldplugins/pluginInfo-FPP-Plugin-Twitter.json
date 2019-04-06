@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-Twitter",
+    "name": "Twitter - Tweet Download",
+    "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+    "description": "Basic Twitter download from your account",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Twitter",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-Twitter.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-Twitter/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

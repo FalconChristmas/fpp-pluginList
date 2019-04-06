@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-Weather",
+    "name": "Plugin to download Weather information to Message Queue",
+    "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
+    "description": "Downloads weather information for your City,State",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Weather",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-Weather.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-Weather/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-Falcon-System-Monitor",
+    "name": "Falcon Hardware System Monitor",
+    "author": "Ben Shaver (bshaver)",
+    "description": "Monitor status items of Falcon Hardware (F4, F16, V2 & V3)",
+    "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Falcon-System-Monitor",
+    "srcURL": "https://github.com/LightsOnHudson/FPP-Plugin-Falcon-System-Monitor.git",
+    "bugURL": "https://github.com/LightsOnHudson/FPP-Plugin-Falcon-System-Monitor/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}

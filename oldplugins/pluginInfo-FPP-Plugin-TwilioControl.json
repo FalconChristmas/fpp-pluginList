@@ -1,0 +1,18 @@
+{
+    "repoName": "FPP-Plugin-TwilioControl",
+    "name": "Twilio SMS Control",
+    "author": "Ben Shaver (bshaver) & Pat Delaney (patdelaney)",
+    "description": "Control FPP with Twilio SMS",
+    "homeURL": "https://github.com/lightsonhudson/FPP-Plugin-TwilioControl",
+    "srcURL": "https://github.com/lightsonhudson/FPP-Plugin-TwilioControl.git",
+    "bugURL": "https://github.com/lightsonhudson/FPP-Pluginn-TwilioControl/issues",
+    "allowUpdates": 0,
+    "versions": [
+        {
+            "minFPPVersion": "0",
+            "maxFPPVersion": "0",
+            "branch": "master",
+            "sha": ""
+        }
+    ]
+}
