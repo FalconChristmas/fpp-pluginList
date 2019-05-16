@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-Election",
     "name": "Election 2016",
+    "linkName": "Election",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Election data for display",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Election",

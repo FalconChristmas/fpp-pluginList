@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-Thingspeak",
     "name": "Post to Thingspeak",
+    "linkName": "Thingspeak",
     "author": "Ben Shaver (bshaver)",
     "description": "Post fields from running playlist to Thingspeak",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Thingspeak",

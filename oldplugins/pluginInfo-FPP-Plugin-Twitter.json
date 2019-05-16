@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-Twitter",
     "name": "Twitter - Tweet Download",
+    "linkName": "Twitter",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Basic Twitter download from your account",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Twitter",

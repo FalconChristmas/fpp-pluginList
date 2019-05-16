@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-SportsTicker",
     "name": "Sports Ticker",
+    "linkName": "SportsTicker",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Use your Matrix in the off holiday season for a sports ticker",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-SportsTicker",

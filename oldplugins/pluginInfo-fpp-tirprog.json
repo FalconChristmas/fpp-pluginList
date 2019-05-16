@@ -1,6 +1,7 @@
 {
     "repoName": "fpp-tirprog",
     "name": "FTP (FPP Tir Programmer)",
+    "linkName": "fpp-tirprog",
     "author": "Mat Mrosko (Materdaddy)",
     "description": "Named FTP to bewilder and confuse",
     "homeURL": "https://github.com/Materdaddy/fpp-tirprog",

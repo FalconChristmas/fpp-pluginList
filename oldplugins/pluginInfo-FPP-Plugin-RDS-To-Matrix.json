@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-RDS-To-Matrix",
     "name": "RDS Data to Message Queue/Matrix",
+    "linkName": "rdsToMatrix",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Media data (Song / Artist) to Message Queue file for use on Matrices",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-RDS-To-Matrix",

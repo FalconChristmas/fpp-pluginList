@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-Mail",
     "name": "Mail Control",
+    "linkName": "MailControl",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Control your FPP and send messages to your Matrix through Email",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Mail",

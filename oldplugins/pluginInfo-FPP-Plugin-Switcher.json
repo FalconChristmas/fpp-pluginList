@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-Switcher",
     "name": "Switcher Control",
+    "linkName": "Switcher",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Switcher control for Video Signal(s)",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Switcher",

@@ -1,6 +1,7 @@
 {
     "repoName": "model-testing",
     "name": "Model Testing",
+    "linkName": "model-testing",
     "author": "Chris Debenham (cjd)",
     "description": "Quickly toggle pixel overlay models on/off for testing",
     "homeURL": "https://github.com/cjd/model-testing",

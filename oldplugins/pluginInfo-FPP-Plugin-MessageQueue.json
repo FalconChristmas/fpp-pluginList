@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-MessageQueue",
     "name": "Message Queue Aggregator for Plugins",
+    "linkName": "MessageQueue",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Message Queue Aggregator for Plugins",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-MessageQueue",

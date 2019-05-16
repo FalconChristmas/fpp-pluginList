@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-Projector-Control",
     "name": "Projector Control",
+    "linkName": "ProjectorControl",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Basic Basic Projector Control",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Projector-Control",

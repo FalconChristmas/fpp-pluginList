@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-EventDate",
     "name": "Event Date",
+    "linkName": "EventDate",
     "author": "Ben Shaver (bshaver) and Steve Smock",
     "description": "Dynamic Event Date countdown for display",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-EventDate",

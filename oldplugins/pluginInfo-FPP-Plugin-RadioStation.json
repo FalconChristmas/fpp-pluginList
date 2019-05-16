@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-RadioStation",
     "name": "Radio Station Type Plugin",
+    "linkName": "RadioStation",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Play randomized music playlist on FPP",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-RadioStation",

@@ -1,6 +1,7 @@
 {
     "repoName": "FPP-Plugin-Weather",
     "name": "Plugin to download Weather information to Message Queue",
+    "linkName": "Weather",
     "author": "Ben Shaver (bshaver) and Pat Delaney (patdelaney)",
     "description": "Downloads weather information for your City,State",
     "homeURL": "https://github.com/LightsOnHudson/FPP-Plugin-Weather",
