@@ -11,7 +11,7 @@
     "versions": [
         {
             "minFPPVersion": "0",
-            "maxFPPVersion": "2.6",
+            "maxFPPVersion": "0",
             "branch": "master",
             "sha": ""
         }
