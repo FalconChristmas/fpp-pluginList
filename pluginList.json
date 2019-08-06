@@ -10,13 +10,13 @@
 
         [ "FPP-Plugin-MessageQueue", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-MessageQueue/master/pluginInfo.json" ],
         [ "FPP-Plugin-EventDate", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-EventDate/master/pluginInfo.json" ],
+        [ "FPP-Plugin-Matrix-Message", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-Matrix-Message/master/pluginInfo.json" ],
 
 		[ "FPP-Plugin-BetaBrite", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-BetaBrite.json" ],
 		[ "FPP-Plugin-Cron-Editor", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Cron-Editor.json" ],
 		[ "FPP-Plugin-Election", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Election.json" ],
 		[ "FPP-Plugin-Falcon-System-Monitor", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Falcon-System-Monitor.json" ],
 		[ "FPP-Plugin-Mail", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Mail.json" ],
-		[ "FPP-Plugin-Matrix-Message", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Matrix-Message.json" ],
 		[ "FPP-Plugin-Projector-Control", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Projector-Control.json" ],
 		[ "FPP-Plugin-RadioStation", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-RadioStation.json" ],
 		[ "FPP-Plugin-RDS-To-Matrix", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-RDS-To-Matrix.json" ],
