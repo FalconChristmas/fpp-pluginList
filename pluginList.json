@@ -6,6 +6,7 @@
 		[ "fpp-matrixtools", "https://raw.githubusercontent.com/FalconChristmas/fpp-matrixtools/master/pluginInfo.json" ],
 		[ "fpp-after-hours", "https://raw.githubusercontent.com/jcrossbdn/fpp-after-hours/master/pluginInfo.json" ],
 		[ "fpp-edmrds", "https://raw.githubusercontent.com/FalconChristmas/fpp-edmrds/master/pluginInfo.json" ],
+        [ "fpp-LoRa", "https://raw.githubusercontent.com/FalconChristmas/fpp-LoRa/master/pluginInfo.json" ],
 		[ "fpp-plugin-Template", "https://raw.githubusercontent.com/FalconChristmas/fpp-plugin-Template/master/pluginInfo.json" ],
 
         [ "FPP-Plugin-MessageQueue", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-MessageQueue/master/pluginInfo.json" ],
