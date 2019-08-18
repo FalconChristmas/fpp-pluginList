@@ -27,7 +27,7 @@
 		[ "FPP-Plugin-StockTicker", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-StockTicker.json" ],
 		[ "FPP-Plugin-Switcher", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Switcher.json" ],
 		[ "FPP-Plugin-Thingspeak", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Thingspeak.json" ],
-		[ "FPP-Plugin-TwilioControl", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-TwilioControl.json" ],
+		[ "FPP-Plugin-TwilioControl", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-TwilioControl/master/pluginInfo.json" ],
 		[ "FPP-Plugin-Twitter", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Twitter.json" ],
 		[ "fpp-tirprog", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-fpp-tirprog.json" ],
 		[ "model-testing", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-model-testing.json" ]
