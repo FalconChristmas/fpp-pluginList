@@ -2,6 +2,7 @@
 	"pluginList": [
 		[ "fpp-BigButtons", "https://raw.githubusercontent.com/FalconChristmas/fpp-BigButtons/master/pluginInfo.json" ],
 		[ "fpp-vastfmt", "https://raw.githubusercontent.com/FalconChristmas/fpp-vastfmt/master/pluginInfo.json" ],
+		[ "Si4713_FM_RDS", "https://raw.githubusercontent.com/ShadowLight8/Si4713_FM_RDS/master/pluginInfo.json"],
 		[ "big-green-button", "https://raw.githubusercontent.com/FalconChristmas/big-green-button/master/pluginInfo.json" ],
 		[ "fpp-matrixtools", "https://raw.githubusercontent.com/FalconChristmas/fpp-matrixtools/master/pluginInfo.json" ],
 		[ "fpp-after-hours", "https://raw.githubusercontent.com/jcrossbdn/fpp-after-hours/master/pluginInfo.json" ],
