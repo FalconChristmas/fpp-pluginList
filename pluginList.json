@@ -11,6 +11,7 @@
         [ "fpp-arcade", "https://raw.githubusercontent.com/FalconChristmas/fpp-arcade/master/pluginInfo.json" ],
         [ "fpp-midi", "https://raw.githubusercontent.com/FalconChristmas/fpp-midi/master/pluginInfo.json" ],
         [ "fpp-osc", "https://raw.githubusercontent.com/FalconChristmas/fpp-osc/master/pluginInfo.json" ],
+        [ "fpp-HomeAssistant", "https://raw.githubusercontent.com/FalconChristmas/fpp-HomeAssistant/master/pluginInfo.json" ],
 		[ "fpp-plugin-Template", "https://raw.githubusercontent.com/FalconChristmas/fpp-plugin-Template/master/pluginInfo.json" ],
 
         [ "FPP-Plugin-MessageQueue", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-MessageQueue/master/pluginInfo.json" ],
