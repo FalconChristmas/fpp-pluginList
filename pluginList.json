@@ -37,7 +37,8 @@
 		[ "FPP-Plugin-TwilioControl", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-TwilioControl/master/pluginInfo.json" ],
 		[ "FPP-Plugin-Twitter", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Twitter.json" ],
 		[ "fpp-tirprog", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-fpp-tirprog.json" ],
-		[ "model-testing", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-model-testing.json" ]
+		[ "model-testing", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-model-testing.json" ],
+		[ "remote-falcon", "https://raw.githubusercontent.com/whitesoup12/remote-falcon-plugin/master/pluginInfo.json" ]
 
 	]
 }
