@@ -43,6 +43,7 @@
 		[ "model-testing", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-model-testing.json" ],
 		[ "remote-falcon", "https://raw.githubusercontent.com/whitesoup12/remote-falcon-plugin/master/pluginInfo.json" ],
 		[ "show-on-demand", "https://raw.githubusercontent.com/joeharrison714/show-on-demand-plugin/master/pluginInfo.json" ],
-        [ "fpp-smartthings-plugin", "https://raw.githubusercontent.com/joeharrison714/fpp-smartthings-plugin/master/pluginInfo.json" ]
+        [ "fpp-smartthings-plugin", "https://raw.githubusercontent.com/joeharrison714/fpp-smartthings-plugin/master/pluginInfo.json" ],
+	[ "fpp-sms-control-too", "https://raw.githubusercontent.com/joeharrison714/fpp-sms-control-too/master/pluginInfo.json" ]
 	]
 }
