@@ -25,7 +25,7 @@
         [ "FPP-Plugin-Matrix-Message", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-Matrix-Message/master/pluginInfo.json" ],
 	[ "FPP-Plugin-Weather", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-Weather/master/pluginInfo.json" ],
 	[ "FPP-Plugin-Projector-Control", "https://raw.githubusercontent.com/FalconChristmas/FPP-Plugin-Projector-Control/master/pluginInfo.json" ],
-		
+
 		[ "FPP-Plugin-BetaBrite", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-BetaBrite.json" ],
 		[ "FPP-Plugin-Cron-Editor", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Cron-Editor.json" ],
 		[ "FPP-Plugin-Election", "https://raw.githubusercontent.com/FalconChristmas/fpp-pluginList/master/oldplugins/pluginInfo-FPP-Plugin-Election.json" ],
@@ -46,6 +46,7 @@
 		[ "show-on-demand", "https://raw.githubusercontent.com/joeharrison714/show-on-demand-plugin/master/pluginInfo.json" ],
         [ "fpp-smartthings-plugin", "https://raw.githubusercontent.com/joeharrison714/fpp-smartthings-plugin/master/pluginInfo.json" ],
 	[ "fpp-sms-control-too", "https://raw.githubusercontent.com/joeharrison714/fpp-sms-control-too/master/pluginInfo.json" ],
-	["fpp-plugin-tplink","https://raw.githubusercontent.com/computergeek1507/fpp-plugin-tplink/main/pluginInfo.json"]
+	["fpp-plugin-tplink","https://raw.githubusercontent.com/computergeek1507/fpp-plugin-tplink/main/pluginInfo.json"],
+	["fpp-zettle","https://raw.githubusercontent.com/bendudz/fpp-zettle/main/pluginInfo.json"]
 	]
 }
