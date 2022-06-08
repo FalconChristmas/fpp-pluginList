@@ -48,6 +48,7 @@
 	[ "fpp-sms-control-too", "https://raw.githubusercontent.com/joeharrison714/fpp-sms-control-too/master/pluginInfo.json" ],
 	["fpp-plugin-tplink","https://raw.githubusercontent.com/computergeek1507/fpp-plugin-tplink/main/pluginInfo.json"],
 	["fpp-zettle","https://raw.githubusercontent.com/bendudz/fpp-zettle/main/pluginInfo.json"],
-	["fpp-WledEffects","https://raw.githubusercontent.com/adamcoulombe/fpp-WledEffects/main/pluginInfo.json"]
+	["fpp-WledEffects","https://raw.githubusercontent.com/adamcoulombe/fpp-WledEffects/main/pluginInfo.json"],
+    ["fpp-PixelRadio","https://raw.githubusercontent.com/FalconChristmas/fpp-PixelRadio/master/pluginInfo.json"]
 	]
 }
