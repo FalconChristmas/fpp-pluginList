@@ -49,6 +49,7 @@
 	["fpp-plugin-tplink","https://raw.githubusercontent.com/computergeek1507/fpp-plugin-tplink/main/pluginInfo.json"],
 	["fpp-zettle","https://raw.githubusercontent.com/bendudz/fpp-zettle/main/pluginInfo.json"],
 	["fpp-WledEffects","https://raw.githubusercontent.com/adamcoulombe/fpp-WledEffects/main/pluginInfo.json"],
-    ["fpp-PixelRadio","https://raw.githubusercontent.com/FalconChristmas/fpp-PixelRadio/master/pluginInfo.json"]
+    ["fpp-PixelRadio","https://raw.githubusercontent.com/FalconChristmas/fpp-PixelRadio/master/pluginInfo.json"],
+    ["fpp-NFL","https://raw.githubusercontent.com/koolsb/fpp-nfl/main/pluginInfo.json"]
 	]
 }
