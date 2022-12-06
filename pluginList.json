@@ -49,6 +49,7 @@
 		[ "fpp-WledEffects","https://raw.githubusercontent.com/adamcoulombe/fpp-WledEffects/main/pluginInfo.json" ],
 		[ "fpp-PixelRadio","https://raw.githubusercontent.com/FalconChristmas/fpp-PixelRadio/master/pluginInfo.json" ],
 		[ "fpp-NFL","https://raw.githubusercontent.com/koolsb/fpp-nfl/main/pluginInfo.json" ],
-		[ "Dynamic_RDS", "https://raw.githubusercontent.com/ShadowLight8/Dynamic_RDS/main/pluginInfo.json" ]
+		[ "Dynamic_RDS", "https://raw.githubusercontent.com/ShadowLight8/Dynamic_RDS/main/pluginInfo.json" ],
+		[ "fpp-ifttt-webhooks-plugin", "https://raw.githubusercontent.com/joeharrison714/fpp-ifttt-webhooks-plugin/master/pluginInfo.json" ]
 	]
 }
